@@ -1,0 +1,1 @@
+//Gathering current time and day in javascript

@@ -5,3 +5,4 @@ let time = today.getHours() + ":" + today.getMinutes();
 
 console.log("today is: " + daylist[day]); 
 console.log("current time is: " + time);
+
